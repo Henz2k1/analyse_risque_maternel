@@ -100,7 +100,7 @@ Python · Jupyter Notebook · Pandas · Matplotlib · Seaborn (carte de chaleur)
 projet/
 ├── README.md
 ├── requirements.txt
-├── 01_EXPLORATION_NETTOYAGE_corrige.ipynb
+├── analyse_risque_maternel.ipynb
 ├── donnees/
 │   ├── brutes/
 │   │   ├── train.csv
@@ -113,7 +113,7 @@ projet/
 ├── figures/
 │   └── (8 fichiers .png)
 └── livrables/
-    ├── rapport_final.docx
+    ├── cahier_de_charges_arm.pdf
     └── presentation_groupe_7.pptx
 ```
 
