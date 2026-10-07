@@ -1,0 +1,9 @@
+Column,Description
+Id,Unique row identifier
+Age,Age of pregnant woman (years)
+SystolicBP,Systolic blood pressure (mmHg)
+DiastolicBP,Diastolic blood pressure (mmHg)
+Blood glucose,Blood sugar (mmol/L)
+BodyTemp,Body temperature (°C)
+HeartRate,Heart rate (bpm)
+RiskLevel,"Target risk level (Low Risk, Mid Risk, High Risk)"
