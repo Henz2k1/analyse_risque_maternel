@@ -112,9 +112,9 @@ projet/
 │       └── test_clean.csv
 ├── figures/
 │   └── (8 fichiers .png)
-└── livrables/
+└── rapports/
     ├── cahier_de_charges_arm.pdf
-    └── presentation_groupe_7.pptx
+    └── contexte_et_glossaire_arm.ipynb
 ```
 
 Les dossiers `donnees/traitees/` et `figures/` sont remplis par le notebook. Les fichiers bruts ne sont jamais modifiés.
@@ -153,12 +153,12 @@ jupyter
 
 ### Préparation des données
 
-Télécharger les quatre fichiers depuis Kaggle (lien de la section 2) et les placer dans `donnees/brutes/` : `train.csv`, `test.csv`, `sample_submission.csv`, `metadata.csv`.
+Les 4 fichiers des données brutes sont téléchargés et se trouvent dans le dossier `donnees/brutes/` : `train.csv`, `test.csv`, `sample_submission.csv`, `metadata.csv`.
 
 ### Exécution
 
 ```bash
-jupyter notebook 01_EXPLORATION_NETTOYAGE_corrige.ipynb
+jupyter notebook analyse_risque_maternel.ipynb
 ```
 
 Dans Jupyter, utiliser **Kernel → Restart & Run All** pour exécuter toutes les cellules de haut en bas. Le notebook doit être lancé depuis la racine du projet, car les chemins sont relatifs (`./donnees/brutes/`, `./donnees/traitees/`, `./figures/`).
@@ -333,4 +333,4 @@ Le risque ne croît pas régulièrement avec la glycémie, mais le seuil de 9 mm
 | Theresia Surya NGOUBALI | Coordination et collecte |
 | Pejuce Pedrich NDINGA | Ingestion et qualité des données |
 | Minervi TULIKUMWE MINDAMUTSA | Analyse descriptive et visualisation |
-| Eecha Henri MASUKU | Intégration et reproductibilité |
+| MASUKU Eecha Henri  | Intégration et reproductibilité |
