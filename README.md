@@ -330,7 +330,7 @@ Le risque ne croît pas régulièrement avec la glycémie, mais le seuil de 9 mm
 
 | Membre | Rôle principal |
 |---|---|
-| Theresia Surya NGOUBALI | Coordination et collecte |
+| Theresia Surya NGOUBALI | Coordination,collecte et une partie de l'analyse descriptive|
 | Pejuce Pedrich NDINGA | Ingestion et qualité des données |
 | Minervi TULIKUMWE MINDAMUTSA | Analyse descriptive et visualisation |
 | MASUKU Eecha Henri  | Intégration et reproductibilité |
